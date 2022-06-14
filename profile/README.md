@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://twitter.com/despresnico">
-  <img align="left" alt="nicolas despres's twitter" width="22px" src="https://api.iconify.design/logos:twitter.svg?color=%23888888" />
+  <img align="left" alt="nicolas despres's twitter" width="22px" height="42px" src="https://api.iconify.design/logos:twitter.svg?color=%23888888" />
 </a>
